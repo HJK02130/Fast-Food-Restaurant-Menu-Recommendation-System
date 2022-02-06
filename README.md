@@ -58,14 +58,14 @@
 **<div align=center> ![](https://lh3.googleusercontent.com/r0X-TdbhTmELrjUbdTFHL-Y1cL1y1LRUra-HGUIXET4R_b3InjtvZ7Yf5045y5ZvKnZAH-FACZt-pwcA3FC6-VmCLB6CzZLUq0k3k-_FdEbT8KEM-du3WRw9TNmkyJX-jXIM4YB6) </div>**
 
 <br />
-<div align=center> 데이터베이스 제어 관리 구조도 </div>
+<div align=center> 위 그림은 데이터베이스 제어 관리 구조도를 나타낸 것이다. </div>
 
 <br />
 
 **<div align=center> ![](https://lh5.googleusercontent.com/Ir-oBdH2OrkcoY9UqxLWsks74XxYjJhMKm6CLSjxZRwasYGlJzFXtS3kA67cFsOkaWj_AVJb8_VH8vxkd_7pXPZsCo6UZHZnqmLijwkk6UZCDJGgRTo0tKZlLfAKuo8-AkyeU95U) </div>**
 
 <br />
-<div align=center>테이블 스키마 </div>
+<div align=center> 위 그림은 테이블 스키마이다. </div>
 
 <br />
 <br />
