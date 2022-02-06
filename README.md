@@ -34,7 +34,7 @@
 <br />
 <br />
 
-> ### 시스템 설명
+> ### 시스템 설명 System Explanation
  패스트푸드점 메뉴 추천 시스템은 [맥도날드 메뉴](https://www.mcdonalds.co.kr/kor/menu/list.do) 데이터를 기반으로 작동하는 시스템이다. 시스템 관리자는 햄버거와 음료의 신메뉴와 수정된 메뉴별 할인정보 등을 서버 인터페이스를 통해 업데이트할 수 있다. 또한, 시스템 사용자는 메뉴를 추천받기 위한 가격 조건, 칼로리 조건, 햄버거 야채 포함 및 음료 탄산 여부, 할인 정보 조건을 사용자 인터페이스에 입력하여 해당 조건에 맞는 메뉴를 추천받게 된다. 시스템 관리자는 MySQL Shell을 통하여, 시스템 사용자는 누구나 쉽게 접근이 가능한 간소화된 인터페이스를 통해 시스템을 관리 및 사용할 수 있다. 
 <br />
 <br />
@@ -54,7 +54,7 @@
 <br />
 <br />
 
-> ### 데이터베이스
+> ### 데이터베이스 Database
 **<div align=center> ![](https://lh3.googleusercontent.com/r0X-TdbhTmELrjUbdTFHL-Y1cL1y1LRUra-HGUIXET4R_b3InjtvZ7Yf5045y5ZvKnZAH-FACZt-pwcA3FC6-VmCLB6CzZLUq0k3k-_FdEbT8KEM-du3WRw9TNmkyJX-jXIM4YB6) </div>**
 
 <br />
@@ -71,8 +71,8 @@
 <br />
 <br />
 
-> ### 인터페이스
-> #### 사용자 인터페이스
+> ### 인터페이스 Interface
+> #### 사용자 인터페이스 예시 Example of User Interface
 > 
-> #### 서버 인터페이스
+> #### 서버 인터페이스 예시 Example of Server Interface
 > 
