@@ -35,6 +35,7 @@
 <br />
 
 > ### 시스템 설명
+패스트푸드점 메뉴 추천 시스템은 [맥도날드](https://www.mcdonalds.co.kr/kor/menu/list.do)
 
 <br />
 <br />
