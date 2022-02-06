@@ -72,7 +72,7 @@
 <br />
 
 > ### 인터페이스 Interface
-> #### 사용자 인터페이스 예시 Example of User Interface
-> 
-> #### 서버 인터페이스 예시 Example of Server Interface
+> #### 사용자 인터페이스 User Interface
+> program.py를 참고하세요.
+> #### 서버 인터페이스 Server Interface
 > 
