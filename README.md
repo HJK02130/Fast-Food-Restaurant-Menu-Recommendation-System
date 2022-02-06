@@ -55,11 +55,10 @@
 <br />
 
 > ### 데이터베이스
-# Welcome to StackEdit!
 
 ![](https://lh3.googleusercontent.com/r0X-TdbhTmELrjUbdTFHL-Y1cL1y1LRUra-HGUIXET4R_b3InjtvZ7Yf5045y5ZvKnZAH-FACZt-pwcA3FC6-VmCLB6CzZLUq0k3k-_FdEbT8KEM-du3WRw9TNmkyJX-jXIM4YB6)
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+
 
 
 
