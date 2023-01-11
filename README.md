@@ -7,13 +7,13 @@
 1. [Overview](#overview)
 2. [Requirements](#requirements)
 3. [Languages and Development Tools](#languages-and-development-tools)
-issue
-4. [Architecture](#architecture)
-5. [Repository Explaination](#repository-explaination)
-6. [Result](#result)
-7. [Conclusion](#conclusion)
-8. [Reference](#reference)
-9. [Developer](#developer)
+4. [Issue](#issue)
+5. [Architecture](#architecture)
+6. [Repository Explaination](#repository-explaination)
+7. [Result](#result)
+8. [Conclusion](#conclusion)
+9. [Reference](#reference)
+10. [Developer](#developer)
 
 
 ### Overview
