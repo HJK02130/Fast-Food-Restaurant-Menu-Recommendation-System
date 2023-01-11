@@ -56,6 +56,7 @@ The requirements satisfied by this program are as follows.</br>
 ### Architecture
 [📑 Here is Detailed Project Description]()
 <div align=center>  <img src="./img/architecture.png"> </div>
+<div align=center>  <img src="./img/ERdiagram.png"> </div>
 <div align=center>  <img src="./img/schema.png"> </div>
 
 ### Repository Explaination
