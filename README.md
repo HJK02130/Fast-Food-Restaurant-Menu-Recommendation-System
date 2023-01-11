@@ -70,11 +70,21 @@ The requirements satisfied by this program are as follows.</br>
 
 ### Result
 [📽 Backend](https://drive.google.com/file/d/1zV7LPVXZkRA5xymigADNiWRn3crpBPux/view?usp=share_link) <br/>
-sefdf<br/><br/>
+<div align=center>  <img src="./img/backend_ex1.png"> </div>
+<div align=center> [Figure 4] Inputing data using shell </div>
+<div align=center>  <img src="./img/backend_ex2.png"> </div>
+<div align=center> [Figure 5] Checking data </div>
+<br/><br/>
+
 [📽 Recommendation](https://drive.google.com/file/d/17rVaYJsJNsFxVcLVaM-DugZRWrV_0N2l/view?usp=share_link) <br/>
-dfsdf<br/><br/>
+<div align=center>  <img src="./img/recommendation_food.png"> </div>
+<div align=center> [Figure 6] Example of Recommendation of food </div>
+<br/><br/>
+
 [📽 Most Recently Ordered Menu](https://drive.google.com/file/d/1sylJMnrQ7gq0fPwm_yITdvkZH_byZyUu/view?usp=share_link)<br/>
-sdfsef<br/>
+<div align=center>  <img src="./img/most_recently_ordered.png"> </div>
+<div align=center> [Figure 7] Example of Checking my most recently ordered menu </div>
+<br/>
 
 ### Conclusion
 
