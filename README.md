@@ -71,7 +71,7 @@ The requirements satisfied by this program are as follows.</br>
 ### Result
 [📽 Backend](https://drive.google.com/file/d/1zV7LPVXZkRA5xymigADNiWRn3crpBPux/view?usp=share_link) <br/>
 <div align=center>  <img src="./img/backend_ex1.png"> </div>
-<div align=center> [Figure 4] Inputing data using shell </div>
+<div align=center> [Figure 4] Inputing data using shell </div> <br/>
 <div align=center>  <img src="./img/backend_ex2.png"> </div>
 <div align=center> [Figure 5] Checking data </div>
 <br/><br/>
