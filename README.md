@@ -43,7 +43,7 @@ The requirements satisfied by this program are as follows.</br>
 + 사용자가 입력한 정보를 바탕으로 그에 맞는 햄버거와 음료를 추천해준다.
 + 사용자가 입력할 수 있는 메뉴의 정보에는 가격 범위, 칼로리의 범위, 탄산 및 채소의 유무, + 할인 정보 등이 포함된다.
 + 사용자마다의 주문 내역을 저장하고, 이를 조회할 수 있다.
-ㅍ새로운 메뉴가 업데이트되면 해당 메뉴를 추가할 수 있다.
++ 새로운 메뉴가 업데이트되면 해당 메뉴를 추가할 수 있다.
 + 메뉴의 정보가 바뀌면 해당 메뉴의 정보를 업데이트할 수 있다.
 + 디지털 장비를 많이 접해보지 못한 사용자도 쉽게 접근하고 사용할 수 있도록 간소화된 User Interface를 구현한다.
 
@@ -56,11 +56,11 @@ The requirements satisfied by this program are as follows.</br>
 ### Architecture
 [📑 Here is Detailed Project Description]()
 <div align=center>  <img src="./img/ERdiagram.png"> </div>
-<div align=center> figure 1. ER Diagram </div> <br/><br/>
+<div align=center> [Figure 1] ER Diagram </div> <br/><br/>
 <div align=center>  <img src="./img/schema.png"> </div>
-<div align=center> figure 2. Database Schema </div> <br/><br/>
+<div align=center> [Figure 2] Database Schema </div> <br/><br/>
 <div align=center>  <img src="./img/architecture.png"> </div>
-<div align=center>  figure 3. Database Control Management Schemes </div> <br/><br/>
+<div align=center>  [Figure 3] Database Control Management Schemes </div> <br/><br/>
 
 ### Repository Explaination
 ###### 📄 backend.py<br/> The code that system administrator directly add and delete data from the database and update it according to the input information.
