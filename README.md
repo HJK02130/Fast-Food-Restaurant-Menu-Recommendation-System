@@ -59,8 +59,9 @@ The requirements satisfied by this program are as follows.</br>
 <div align=center>  <img src="./img/schema.png"> </div>
 
 ### Repository Explaination
-###### 📄 backend.sql<br/> The code that system administrator directly add and delete data from the database and update it according to the input information.
+###### 📄 backend.py<br/> The code that system administrator directly add and delete data from the database and update it according to the input information.
 ###### 📄 frontend.py<br/> The code of simplified interface that connects the database and the GUI. It runs in a window using tkinter and it receives user input, takes the necessary data from the database, and outputs it.
+###### 📄 backend.sql<br/> The code that system administrator directly add and delete data from the database and update it according to the input information.
 
 
 ### Result
