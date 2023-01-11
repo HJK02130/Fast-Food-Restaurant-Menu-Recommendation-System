@@ -55,9 +55,12 @@ The requirements satisfied by this program are as follows.</br>
 
 ### Architecture
 [📑 Here is Detailed Project Description]()
-<div align=center>  <img src="./img/architecture.png"> </div>
 <div align=center>  <img src="./img/ERdiagram.png"> </div>
+<div align=center> figure 1. ER Diagram </div> <br/><br/>
 <div align=center>  <img src="./img/schema.png"> </div>
+<div align=center> figure 2. Database Schema </div> <br/><br/>
+<div align=center>  <img src="./img/architecture.png"> </div>
+<div align=center>  figure 3. Database Control Management Schemes </div> <br/><br/>
 
 ### Repository Explaination
 ###### 📄 backend.py<br/> The code that system administrator directly add and delete data from the database and update it according to the input information.
