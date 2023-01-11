@@ -91,7 +91,7 @@ Example of Checking the Most Recent Order History</div>
 
 
 ### Conclusion
-The fast-food restaurant menu recommendation program can reduce the time spent looking at menus with a lot of food in order to choose a menu with limited contents, and it is expected to be able to recommend menus that are closer to the actual menu than selecting menus. In addition, it pursues user comfort by minimizing the weakness of fast food restaurants by reducing uncomfortable conversations with employees that each individual can feel. This will be more advanced if the interface is supplemented.
+The fast-food restaurant menu recommendation program can reduce the time spent looking at menus with a lot of food in order to choose a menu with limited contents, and it is expected to be able to recommend menus that are closer to the actual menu than selecting menus. In addition, it pursues user comfort by minimizing the weakness of fast food restaurants by reducing uncomfortable conversations with employees that each individual can feel. If the issue is resolved and the interface is supplemented, it will be of great help to the lives of busy modern people using fast food restaurants, and it will be a better recommendation program if the recommendation conditions are changed through tests.
 
 ### Developer
 Hyunji Kim<a href="mailto:hjk021@khu.ac.kr"> <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> 
