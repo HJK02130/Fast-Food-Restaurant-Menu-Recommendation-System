@@ -12,8 +12,7 @@
 6. [Repository Explaination](#repository-explaination)
 7. [Result](#result)
 8. [Conclusion](#conclusion)
-9. [Reference](#reference)
-10. [Developer](#developer)
+9. [Developer](#developer)
 
 
 ### Overview
@@ -35,7 +34,7 @@ The requirements satisfied by this program are as follows.</br>
   
   </br>
   
-간소화된 인터페이스로부터 고객의 조건을 만족하는 메뉴 추천을 해줌으로써 사람들이 몰리는 패스트푸드점의 메뉴 선택 시간을 하여 패스트푸드의 장점을 보다 더 살릴 수 있는 것이 본 프로젝트의 목표이다. 시스템은 크게 데이터를 추가하고 변경하는 등의 관리를 하는 시스템 관리자와 추천시스템을 사용하여 메뉴를 추천받는 시스템 사용자를 위한 시스템이다. 시스템 관리자는 햄버거와 음료의 신메뉴와 수정된 메뉴별 할인정보 등을 서버 인터페이스를 통해 업데이트할 수 있다. 또한, 시스템 사용자는 가격 조건, 칼로리 조건, 햄버거 야채 포함 및 음료 탄산 여부, 할인 정보 조건을 사용자 인터페이스에 입력하여 해당 조건에 맞는 메뉴를 추천받는다. 이 때, 시스템 관리자는 Shell을 통하여, 시스템 사용자는 누구나 쉽게 접근이 가능한 간소화된 인터페이스를 통해 시스템을 관리 및 사용할 수 있다. 하지만 현재 단계에서 누구나 접근하기 쉬운 인터페이스는 맞으나, python tkinter library를 이용하여 만든 최소한의 인터페이스이기 때문에, frontend 인터페이스를 더 발전시킬 계획이 있다.
+간소화된 인터페이스로부터 고객의 조건을 만족하는 메뉴 추천을 해줌으로써 사람들이 몰리는 패스트푸드점의 메뉴 선택 시간을 하여 패스트푸드의 장점을 보다 더 살릴 수 있는 것이 본 프로젝트의 목표이다. 시스템은 크게 데이터를 추가하고 변경하는 등의 관리를 하는 시스템 관리자와 추천시스템을 사용하여 메뉴를 추천받는 시스템 사용자를 위한 시스템이다. 시스템 관리자는 햄버거와 음료의 신메뉴와 수정된 메뉴별 할인정보 등을 서버 인터페이스를 통해 업데이트할 수 있다. 또한, 시스템 사용자는 가격 조건, 칼로리 조건, 햄버거 야채 포함 및 음료 탄산 여부, 할인 정보 조건을 사용자 인터페이스에 입력하여 해당 조건에 맞는 메뉴를 추천받는다. 이 때, 시스템 관리자는 Shell을 통하여, 시스템 사용자는 누구나 쉽게 접근이 가능한 간소화된 인터페이스를 통해 시스템을 관리 및 사용할 수 있다. 하지만 현재 단계에서 누구나 접근하기 쉬운 인터페이스는 맞으나, python tkinter library를 이용하여 만든 최소한의 인터페이스이기 때문에, 서버 및 사용자 인터페이스를 더 발전시킬 계획이 있다.
 <br/><br/>
 프로젝트의 요구사항은 다음과 같다.<br/>
 
@@ -49,18 +48,18 @@ The requirements satisfied by this program are as follows.</br>
 
 ### Requirements
 + Python 3.6
++ MySQL Workbench 8.0
 
 ### Languages and Development Tools
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
+### Issue
++ Tab switching of user interface is modifying
+
 ### Architecture
 [📑 Here is Detailed Project Description]()
-<div align=center>  <img src="./img/ERdiagram.png"> </div>
-<div align=center> [Figure 1] ER Diagram </div> <br/><br/>
-<div align=center>  <img src="./img/schema.png"> </div>
-<div align=center> [Figure 2] Database Schema </div> <br/><br/>
 <div align=center>  <img src="./img/architecture.png"> </div>
-<div align=center>  [Figure 3] Database Control Management Schemes </div> <br/><br/>
+<div align=center>  Database Control Management Schemes </div> <br/><br/>
 
 ### Repository Explaination
 ###### 📄 backend.py<br/> The code that system administrator directly add and delete data from the database and update it according to the input information.
@@ -69,26 +68,30 @@ The requirements satisfied by this program are as follows.</br>
 
 
 ### Result
-[📽 Backend](https://drive.google.com/file/d/1zV7LPVXZkRA5xymigADNiWRn3crpBPux/view?usp=share_link) <br/>
-<div align=center>  <img src="./img/backend_ex1.png"> </div>
-<div align=center> [Figure 4] Inputing data using shell </div> <br/>
-<div align=center>  <img src="./img/backend_ex2.png"> </div>
-<div align=center> [Figure 5] Checking data </div>
-<br/><br/>
++ Backend<br/>
+<div align=center><img src="./img/backend_ex1.png"><br/>
+Example of inputing data using shell <br/><br/>
+<img src="./img/backend_ex2.png"><br/>
+Checking data</div>
+<br/><br/><br/>
 
-[📽 Recommendation](https://drive.google.com/file/d/17rVaYJsJNsFxVcLVaM-DugZRWrV_0N2l/view?usp=share_link) <br/>
-<div align=center>  <img src="./img/recommendation_food.png"> </div>
-<div align=center> [Figure 6] Example of Recommendation of food </div>
-<br/><br/>
++ Recommendation <br/>
+<div align=center><img src="./img/recommendation_food.png"><br/>
+Example of Food Recommendation</div>
+<br/><br/><br/>
 
-[📽 Most Recently Ordered Menu](https://drive.google.com/file/d/1sylJMnrQ7gq0fPwm_yITdvkZH_byZyUu/view?usp=share_link)<br/>
-<div align=center>  <img src="./img/most_recently_ordered.png"> </div>
-<div align=center> [Figure 7] Example of Checking my most recently ordered menu </div>
-<br/>
++ The Most Recent Order History<br/>
+<div align=center><img src="./img/most_recently_ordered.png"><br/>
+Example of Checking the Most Recent Order History</div>
+<br/><br/><br/>
+
+[📽 Testing the Backend](https://drive.google.com/file/d/1zV7LPVXZkRA5xymigADNiWRn3crpBPux/view?usp=share_link) <br/>
+[📽 Testing the Recommendation](https://drive.google.com/file/d/17rVaYJsJNsFxVcLVaM-DugZRWrV_0N2l/view?usp=share_link) <br/>
+[📽 Testing the Most Recent Order History](https://drive.google.com/file/d/1sylJMnrQ7gq0fPwm_yITdvkZH_byZyUu/view?usp=share_link) <br/><br/>
+
 
 ### Conclusion
-
-
+The fast-food restaurant menu recommendation program can reduce the time spent looking at menus with a lot of food in order to choose a menu with limited contents, and it is expected to be able to recommend menus that are closer to the actual menu than selecting menus. In addition, it pursues user comfort by minimizing the weakness of fast food restaurants by reducing uncomfortable conversations with employees that each individual can feel. This will be more advanced if the interface is supplemented.
 
 ### Developer
 Hyunji Kim<a href="mailto:hjk021@khu.ac.kr"> <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> 
