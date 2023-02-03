@@ -8,11 +8,12 @@
 2. [Requirements](#requirements)
 3. [Languages and Development Tools](#languages-and-development-tools)
 4. [Issue](#issue)
-5. [Architecture](#architecture)
-6. [Repository Explaination](#repository-explaination)
-7. [Result](#result)
-8. [Conclusion](#conclusion)
-9. [Developer](#developer)
+5. [Usage](#usage)
+6. [Architecture](#architecture)
+7. [Repository Explaination](#repository-explaination)
+8. [Result](#result)
+9. [Conclusion](#conclusion)
+10. [Developer](#developer)
 
 
 ### Overview
@@ -55,6 +56,13 @@ The requirements satisfied by this program are as follows.</br>
 
 ### Issue
 + Tab switching of user interface is modifying
+
+### Usage
+├── db/<br>
+│   └── database.sql<br>
+└── src/<br>
+    ├── backend.py<br>
+    └── frontend.py<br>
 
 ### Architecture
 <div align=center>  <img src="./img/architecture.png"> </div>
