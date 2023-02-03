@@ -57,7 +57,6 @@ The requirements satisfied by this program are as follows.</br>
 + Tab switching of user interface is modifying
 
 ### Architecture
-[📑 Here is Detailed Project Description]()
 <div align=center>  <img src="./img/architecture.png"> </div>
 <div align=center>  Database Control Management Schemes </div> <br/><br/>
 
